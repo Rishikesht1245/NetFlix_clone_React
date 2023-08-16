@@ -2,7 +2,7 @@
 
 A fully responsive Netflix-clone website build using React.js,Redux-toolkit, Tailwind CSS and Styled components.
 
-**_{Link to be add}_**
+***https://netflixclone1245.netlify.app/***
 
 ## Features
 
